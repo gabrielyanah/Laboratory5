@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laboratory5</string>
+    <string name="title">AMANPULO</string>
+    <string name="taal">TAAL CHUURCH</string>
+    <string name="location">Location: Palawan, Philippines</string>
+    <string name="distance">Distance from UST: 798.7 km</string>
+    <string name="act1">ACT 1</string>
+    <string name="act2">ACTIVITY 2</string>
+    <string name="map">MAP</string>
+</resources>
