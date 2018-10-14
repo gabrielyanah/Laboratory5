@@ -49,7 +49,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_vertical|center_horizontal|center"
-            android:text="@string/title"
+            android:text="@string/title1"
             android:textColor="@color/primaryTextColor"
             android:textSize="40sp"
             android:theme="@style/text" />
@@ -66,7 +66,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_vertical"
-            android:text="@string/location"
+            android:text="@string/location1"
             android:textColor="@color/secondaryTextColor"
             android:textSize="25sp" />
 
@@ -82,7 +82,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_vertical"
-            android:text="@string/distance"
+            android:text="@string/distance1"
             android:textColor="@color/secondaryTextColor"
             android:textSize="25sp" />
 
