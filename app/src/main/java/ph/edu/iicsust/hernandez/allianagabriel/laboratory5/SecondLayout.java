@@ -20,14 +20,14 @@ public class SecondLayout extends AppCompatActivity {
         Intent i = null, chooser = null;
         if (v.getId() == R.id.button21) {
             i = new Intent(Intent.ACTION_VIEW);
-            i.setData(Uri.parse("geo:14.610400,120.991916"));
+            i.setData(Uri.parse("geo:13.8742115,120.9682347"));
             chooser = Intent.createChooser(i, "Select your map app");
 
             startActivity(chooser);
         }
     }
-    public void display2(View v) {
-        Intent i = new Intent(this, MainActivity.class);
+    public void display1(View v) {
+        Intent i = new Intent(getApplicationContext(), MainActivity.class);
         startActivity(i);
     }
 

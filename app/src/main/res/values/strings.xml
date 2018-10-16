@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">Laboratory5</string>
     <string name="title1">AMANPULO</string>
-    <string name="title2">TAAL CHURCH</string>
-    <string name="location1">Location: Palawan</string>
-    <string name="location2">Location: Batangas</string>
+    <string name="title2">TIERRA CUTA</string>
+    <string name="location1">Location: Palawan, Philippines</string>
+    <string name="location2">Location: Batangas, Philippines</string>
     <string name="distance1">Distance from UST: 798.7 km</string>
-    <string name="distance2">Distance from UST: 798.7 km</string>
+    <string name="distance2">Distance from UST: 82.3 km</string>
     <string name="act1">ACT 1</string>
-    <string name="act2">ACTIVITY 2</string>
+    <string name="act2">ACT 2</string>
     <string name="map">MAP</string>
 </resources>

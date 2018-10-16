@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("4ITI ", "object is deallocated ");
     }
     public void display2(View v) {
-        Intent i = new Intent(this, SecondLayout.class);
+        Intent i = new Intent(getApplicationContext(), SecondLayout.class);
         startActivity(i);
     }
 
